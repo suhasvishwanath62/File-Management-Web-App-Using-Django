@@ -1,4 +1,17 @@
-# File-Management-Web-App-Using-Django
+# 📁 File-Management-Web-App-Using-Django 📁
+# Installation
+```
+pip install Django
+
+```
+```
+pip install crispy_forms
+
+```
+```
+pip install crispy_bootstrap4
+
+```
 # Description
 - I have designed and developed a `File Management Web Application using Django` that will allow users to add, update, and delete files using Django.
 - The web application supports `pdf, image, document, audio, and video files` The User Registration allows the user to register themselves to upload the files, files that are already uploaded can be downloaded without login.
