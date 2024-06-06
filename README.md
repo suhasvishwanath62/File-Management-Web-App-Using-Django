@@ -1,4 +1,4 @@
-# 📁 File-Management-Web-App-Using-Django 📁
+# 📁 File-Management-Web-App-Using-Django
 # Installation
 ```
 pip install Django
